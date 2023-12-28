@@ -1,0 +1,10 @@
+/mnt/c/Users/Joseph/rust-book-es/2018-edition/target/debug/deps/librustc_serialize-9f9af9af13ffb024.rmeta: /home/joseph/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustc-serialize-0.3.24/src/lib.rs /home/joseph/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustc-serialize-0.3.24/src/serialize.rs /home/joseph/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustc-serialize-0.3.24/src/collection_impls.rs /home/joseph/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustc-serialize-0.3.24/src/base64.rs /home/joseph/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustc-serialize-0.3.24/src/hex.rs /home/joseph/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustc-serialize-0.3.24/src/json.rs
+
+/mnt/c/Users/Joseph/rust-book-es/2018-edition/target/debug/deps/rustc_serialize-9f9af9af13ffb024.d: /home/joseph/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustc-serialize-0.3.24/src/lib.rs /home/joseph/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustc-serialize-0.3.24/src/serialize.rs /home/joseph/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustc-serialize-0.3.24/src/collection_impls.rs /home/joseph/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustc-serialize-0.3.24/src/base64.rs /home/joseph/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustc-serialize-0.3.24/src/hex.rs /home/joseph/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustc-serialize-0.3.24/src/json.rs
+
+/home/joseph/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustc-serialize-0.3.24/src/lib.rs:
+/home/joseph/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustc-serialize-0.3.24/src/serialize.rs:
+/home/joseph/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustc-serialize-0.3.24/src/collection_impls.rs:
+/home/joseph/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustc-serialize-0.3.24/src/base64.rs:
+/home/joseph/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustc-serialize-0.3.24/src/hex.rs:
+/home/joseph/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustc-serialize-0.3.24/src/json.rs:
